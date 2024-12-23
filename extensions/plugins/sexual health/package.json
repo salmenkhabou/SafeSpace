@@ -1,0 +1,10 @@
+{
+    "name": "hexabot-plugin-sexual-health",
+    "version": "1.0.0",
+    "author": "Your Name",
+    "description": "Hexabot plugin for sexual health awareness.",
+    "dependencies": {
+      "axios": "^1.4.0"
+    }
+  }
+  
